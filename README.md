@@ -1,5 +1,5 @@
 ## The Merchant Transaction Management System
-is a web application built using Django.  
+A web application built using Django.  
 It helps merchants manage and track their transactions effectively.  
 The system provides an easy-to-use interface for merchants to input transaction data, view reports, and manage their financial records.  
 ## Features
