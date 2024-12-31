@@ -1,10 +1,11 @@
 ## The Merchant Transaction Management System
-A web application built using Django.  
-It helps merchants manage and track their transactions effectively.  
-The system provides an easy-to-use interface for merchants to input transaction data, view reports, and manage their financial records.  
+This project is a Django-based web application designed to help merchants manage their transactions efficiently. 
+The system allows merchants to track, view, and analyze their transaction records, providing an intuitive interface for managing financial data.
+
+  
 ## Features
-Transaction Tracking: Easily add and track transaction records. 
-Reports Generation: Generate transaction reports for different periods.  
-User Authentication: Secure login and user management.  
-Database Support: Utilizes SQLite for storing transaction data (can be configured to use other databases).  
-Django Admin Panel: Admin interface for managing users and data.  
+Track Transactions: Keep a record of all transactions processed by the merchant.
+Merchant Profile Management: Maintain a profile for each merchant with relevant details.
+Transaction History: View detailed transaction history including amounts, dates, and statuses.
+Django Admin Interface: Use Django's built-in admin panel to manage transactions and merchant data.
+SQLite Database: The application uses SQLite as its default database for storing transaction and merchant information.
